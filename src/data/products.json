@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "nombre": "Desayuno",
+      "descripcion": "Bandejita de desayuno sorpresa personalizada 💖",
+      "precio": 40.000,
+      "imagen": "https://i.imgur.com/Fe6Bq2x.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Desayuno barbie´s",
+      "descripcion": "Esta es la descripción del Producto 2.",
+      "precio": 40.000,
+      "imagen": "https://i.imgur.com/ZSgxVyM.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Desayuno dia del padre.",
+      "descripcion": "Esta es la descripción del Producto 3.",
+      "precio": 40.000,
+      "imagen": "https://i.imgur.com/YvCw7iz.jpg"
+    },
+
+    {
+        "id": 4,
+        "nombre": "Desayuno de Lyn.",
+        "descripcion": "Esta es la descripción del Producto 3.",
+        "precio": 40.000,
+        "imagen": "https://i.imgur.com/OZROqRi.jpg"
+      },
+
+      {
+        "id": 5,
+        "nombre": "arreglo margaritas",
+        "descripcion": "Esta es la descripción del Producto 3.",
+        "precio": 40.000,
+        "imagen": "https://i.imgur.com/giaNmTg.jpg"
+      }
+  ]

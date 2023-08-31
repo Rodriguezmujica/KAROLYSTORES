@@ -19,3 +19,8 @@
 span {
   margin-right: 20px;
 }
+
+.itemCount span {
+  color: black;
+  padding: 1rem;
+}
